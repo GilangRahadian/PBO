@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\Setter\Setter\bin\Debug\net6.0\Setter.exe
+C:\Users\acer\source\repos\Setter\Setter\bin\Debug\net6.0\Setter.deps.json
+C:\Users\acer\source\repos\Setter\Setter\bin\Debug\net6.0\Setter.runtimeconfig.json
+C:\Users\acer\source\repos\Setter\Setter\bin\Debug\net6.0\Setter.dll
+C:\Users\acer\source\repos\Setter\Setter\bin\Debug\net6.0\Setter.pdb
+C:\Users\acer\source\repos\Setter\Setter\obj\Debug\net6.0\Setter.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Setter\Setter\obj\Debug\net6.0\Setter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Setter\Setter\obj\Debug\net6.0\Setter.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Setter\Setter\obj\Debug\net6.0\Setter.AssemblyInfo.cs
+C:\Users\acer\source\repos\Setter\Setter\obj\Debug\net6.0\Setter.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Setter\Setter\obj\Debug\net6.0\Setter.dll
+C:\Users\acer\source\repos\Setter\Setter\obj\Debug\net6.0\refint\Setter.dll
+C:\Users\acer\source\repos\Setter\Setter\obj\Debug\net6.0\Setter.pdb
+C:\Users\acer\source\repos\Setter\Setter\obj\Debug\net6.0\Setter.genruntimeconfig.cache
+C:\Users\acer\source\repos\Setter\Setter\obj\Debug\net6.0\ref\Setter.dll
