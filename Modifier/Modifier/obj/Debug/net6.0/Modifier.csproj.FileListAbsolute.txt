@@ -1,0 +1,5 @@
+C:\Users\acer\source\repos\Modifier\Modifier\obj\Debug\net6.0\Modifier.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Modifier\Modifier\obj\Debug\net6.0\Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Modifier\Modifier\obj\Debug\net6.0\Modifier.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Modifier\Modifier\obj\Debug\net6.0\Modifier.AssemblyInfo.cs
+C:\Users\acer\source\repos\Modifier\Modifier\obj\Debug\net6.0\Modifier.csproj.CoreCompileInputs.cache
