@@ -1,0 +1,5 @@
+C:\Users\acer\source\repos\This super\This super\obj\Debug\net6.0\This super.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\This super\This super\obj\Debug\net6.0\This super.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\This super\This super\obj\Debug\net6.0\This super.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\This super\This super\obj\Debug\net6.0\This super.AssemblyInfo.cs
+C:\Users\acer\source\repos\This super\This super\obj\Debug\net6.0\This super.csproj.CoreCompileInputs.cache
